@@ -34,6 +34,9 @@ export class EntrarComponent implements OnInit {
       console.log(environment.token)
       console.log(environment.foto)
       console.log(environment.nome)
+      /*
+      Validação do environment no console
+      */
 
       this.userLogin.foto
 
